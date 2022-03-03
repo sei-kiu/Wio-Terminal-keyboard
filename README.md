@@ -1,5 +1,5 @@
 # Wio-Terminal-keyboard
 
-Example to use Wio Terminal to send keyboard key signals
+This example shows how to use Wio Terminal to send keyboard key signals
 
 Wio Terminal
